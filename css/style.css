@@ -588,6 +588,7 @@ margin:1em 0 0;
   min-height: 188px;
   text-align: center;
   padding: 3em 0;
+	height:100%
 }
 .footer li a span {
   width: 12px;
@@ -711,6 +712,7 @@ padding:0;
 	 color: #89daf2;
 }
 .footer-bottom {
+	height:100%
   background: #1f2123;
   padding: 1em 0;
   border-top: 2px solid #000;
@@ -2620,4 +2622,14 @@ p.cart {
 p.title a {
   font-size: 1.1em;
 }
+}
+.buttons{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	margin-top: 20px;
+	padding-left: 10px;
+}
+.single2 {
+    padding-right: 50px;
 }
